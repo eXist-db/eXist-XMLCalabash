@@ -43,7 +43,7 @@
         <existdb.version>5.2.0</existdb.version>
         <xmlcalabash.version>1.2.1-99</xmlcalabash.version>
         <saxon.version>9.9.1-6</saxon.version>  <!-- NOTE this must be compatible with the version used by both eXist-db and XML Calabash -->
-        <xmlresolver.version>1.0.8</xmlresolver.version>  <!-- NOTE this must be compatible with the version used by XML Calabash -->
+        <xmlresolver.version>3.0.1</xmlresolver.version>  <!-- NOTE this must be compatible with the version used by XML Calabash -->
         <xmlapis.version>1.4.01</xmlapis.version>  <!-- NOTE this must be compatible with the version used by eXist-db -->
 
         <java.version>1.8</java.version>
